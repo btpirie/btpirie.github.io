@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello world! I am a PhD Candidate in Economics at the University of California, Los Angeles and student affiliate at the California Center for Population Research.
+Hello world! I am a PhD Candidate in Economics at the University of California, Los Angeles and student affiliate at the [California Center for Population Research](https://ccpr.ucla.edu).
 
 My research interests are in urban economics, with particular interests in transportation, migration, and labor economics. In my research I use large data sets with spatial information to explore how household migration and travel decisions influence inequalities in economic, political, and other outcomes. I am also passionate about causal inference and love to exploit clever natural experiments to learn about people and cities.
 
