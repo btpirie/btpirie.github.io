@@ -2,13 +2,39 @@
   "basics": {
     "name": "Benjamin Pirie",
     "email": "btpirie@outlook.com",
-    "url": "https://btpirie.github.io"
-    "summary": "",
+    "url": "https://btpirie.github.io",
     "location": {
       "city": "Los Angeles",
       "countryCode": "US",
-      "region": "California"
+      "region": "California"},
+    "skills": "Causal Inference, Experimental Design, Applied Econometrics, R, Python, SQL, STATA, GIS, LaTeX, Excel, Git"
     },
+  "education": [
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, CA",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "September 2020",
+      "endDate": "June 2025"
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, CA",
+      "area": "Economics",
+      "studyType": "Master's",
+      "startDate": "September 2020",
+      "endDate": "June 2022"
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Los Angeles, CA",
+      "area": "Economics",
+      "studyType": "Bachelor's",
+      "startDate": "August 2014",
+      "endDate": "May 2018"
+    }
+  ],
   "work": [
     {
       "name": "Amazon",
@@ -17,33 +43,20 @@
       "startDate": "June 2024",
       "endDate": "September 2024",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Used causal inference methods, including regression discontinuity, to estimate customer delivery speed preferences within the Worldwide Grocery Stores business."], ["test"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "highlights": ["Used causal inference methods, including regression discontinuity, to estimate customer delivery speed preferences within the Worldwide Grocery Stores business.", 
+      "Wrote scripts to regularly reestimate these parameters to evaluate the tradeoff of hiring more warehouse labor vs. losing orders due to longer promise times at specific locations and times of day.", 
+      "Wrote technical and non-technical reports to present my findings to various finance, operations, and science teams."]
+    }, 
+   {
+    "name": "The Brattle Group",
+    "position": "Research Analyst",
+    "location": "San Francisco, CA",
+    "startDate": "July 2018",
+    "endDate": "August 2020",
+    "highlights": ["Conducted regression analysis, data wrangling, and data cleaning for expert testimony in support of various high-profile litigation matters.", 
+    "Trained new analysts in R and SQL.", 
+    "Prepared literature reviews and gathered research on a variety of industries."]
+   }
   ],
   "awards": [
     {
@@ -52,50 +65,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -119,21 +88,6 @@
       "releaseDate": "1916-03-20",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
