@@ -14,26 +14,20 @@
     {
       "institution": "University of California, Los Angeles",
       "location": "Los Angeles, CA",
-      "area": "Economics",
-      "studyType": "PhD",
-      "startDate": "",
-      "endDate": "2025 (expected)"
+      "studyType": "PhD in Economics",
+      "date": "2025 (expected)"
     },
     {
       "institution": "University of California, Los Angeles",
       "location": "Los Angeles, CA",
-      "area": "Economics",
-      "studyType": "Master's",
-      "startDate": "",
-      "endDate": "2022"
+      "studyType": "Master's in Economics",
+      "date": "2022"
     },
     {
       "institution": "University of California, Berkeley",
-      "location": "Los Angeles, CA",
-      "area": "Economics",
-      "studyType": "Bachelor's",
-      "startDate": "",
-      "endDate": "2018"
+      "location": "Berkeley, CA",
+      "studyType": "Bachelor's in Economics",
+      "date": "2018"
     }
   ],
   "work": [
