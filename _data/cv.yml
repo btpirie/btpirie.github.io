@@ -28,7 +28,7 @@
   contents:
     - title: TA Consultant
       institution: University of California, Los Angeles -- Los Angeles, CA
-      year: September 2023 - Present
+      year: 09/2023 - Present
       description:
         - Designed and facilitated training programs for approximately 35 new Teaching Assistants annually in the Economics department at UCLA, ensuring effective preparation for their teaching responsibilities.
         - Provided year-round mentorship and support to Teaching Assistants, offering strategies to enhance pedagogy and address teaching-related challenges.
@@ -36,7 +36,7 @@
 
     - title: Economist Intern
       institution: Amazon -- Seattle, WA
-      year: June 2024 - September 2024
+      year: 06/2024 - 09/2024
       description:
         - Applied causal inference methods, including regression discontinuity, to estimate customer delivery speed preferences within the Worldwide Grocery Stores business.
         - Wrote scripts to regularly re-estimate these parameters to evaluate the tradeoff of hiring more warehouse labor vs. losing orders due to longer promise times at specific locations and times of day.
@@ -44,7 +44,7 @@
 
     - title: Graduate Research Assistant
       institution: University of California, Los Angeles -- Los Angeles, CA
-      year: June 2021 - December 2023
+      year: 06/2021 - 12/2023
       description:
         - Processed 1.5 billion rows of voter registration data by implementing memory-efficient techniques, such as working with small samples, parallelizing preprocessing steps, and using dimensionality reduction methods like principal component analysis.
         - Developed an algorithm to follow registered voters over time by linking voter registration files with name, age, and address fuzzy matching.
@@ -52,14 +52,14 @@
 
     - title: Teaching Assistant
       institution: University of California, Los Angeles -- Los Angeles, CA
-      year: September 2021 - June 2024
+      year: 09/2021 - 06/2024
       description:
         - Recognized with two departmental awards for excellence in teaching, as determined by student evaluations.
         - Taught undergraduate courses in data science, econometrics, microeconomics, and personal finance, delivering engaging and accessible instruction to diverse student audiences.
 
     - title: Research Analyst
       institution: The Brattle Group -- San Francisco, CA
-      year: July 2018 - August 2020
+      year: 07/2018 - 08/2020
       description:
         - Conducted regression analysis, data wrangling, and data cleaning for expert testimony in support of various high-profile litigation matters.
         - Developed and presented trainings for analysts in R and SQL.
