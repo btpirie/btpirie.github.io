@@ -3,6 +3,12 @@
   contents:
     - name: Full Name
       value: Benjamin Pirie
+    - name: Email
+      value: btpirie@outlook.com
+    - name: Research Skills
+      value: Causal Inference, Experimental Design, Applied Econometrics, Spatial Modeling
+    - name: Technical Skills
+      value: R, STATA, Python, SQL, ArcGIS, LaTeX, Git
 
 - title: Education
   type: time_table
