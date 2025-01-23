@@ -1,97 +1,77 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Benjamin Pirie
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Economics
+      institution: University of California, Los Angeles
+      year: 2025
+    - title: M.A. in Economics
+      institution: University of California, Los Angeles
+      year: 2022
+    - title: B.A. in Economics
+      institution: University of California, Berkeley
+      year: 2018
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: TA Consultant
+      institution: University of California, Los Angeles -- Los Angeles, CA
+      year: September 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and facilitated training programs for approximately 35 new Teaching Assistants annually in the Economics department at UCLA, ensuring effective preparation for their teaching responsibilities.
+        - Provided year-round mentorship and support to Teaching Assistants, offering strategies to enhance pedagogy and address teaching-related challenges.
+        - Nominated by the Economics department for the role based on outstanding student teaching evaluations, recognizing excellence in instructional effectiveness.
+
+    - title: Economist Intern
+      institution: Amazon -- Seattle, WA
+      year: June 2024 - September 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Applied causal inference methods, including regression discontinuity, to estimate customer delivery speed preferences within the Worldwide Grocery Stores business.
+        - Wrote scripts to regularly re-estimate these parameters to evaluate the tradeoff of hiring more warehouse labor vs. losing orders due to longer promise times at specific locations and times of day.
+        - Prepared and presented technical and non-technical reports to finance, operations, and science teams, effectively communicating insights to inform cross-functional decision-making.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: University of California, Los Angeles -- Los Angeles, CA
+      year: June 2021 - December 2023
       description:
+        - Processed 1.5 billion rows of voter registration data by implementing memory-efficient techniques, such as working with small samples, parallelizing preprocessing steps, and using dimensionality reduction methods like principal component analysis.
+        - Developed an algorithm to follow registered voters over time by linking voter registration files with name, age, and address fuzzy matching.
+        - In a separate project I collected and processed data on public transit agencies across the US. I performed regression analysis to examine the relationship between government funding, service quality, and ridership.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teaching Assistant
+      institution: University of California, Los Angeles -- Los Angeles, CA
+      year: September 2021 - June 2024
+      description:
+        - Recognized with two departmental awards for excellence in teaching, as determined by student evaluations.
+        - Taught undergraduate courses in data science, econometrics, microeconomics, and personal finance, delivering engaging and accessible instruction to diverse student audiences.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Analyst
+      institution: The Brattle Group -- San Francisco, CA
+      year: July 2018 - August 2020
+      description:
+        - Conducted regression analysis, data wrangling, and data cleaning for expert testimony in support of various high-profile litigation matters.
+        - Developed and presented trainings for analysts in R and SQL.
+        - Prepared literature reviews and gathered research on a variety of industries.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Fall Quarter Economics Department Teaching Award, UCLA
+        - Winter Quarter Economics Department Teaching Award, UCLA
+    - year: 2022
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Graduate Summer Research Mentorship Award, UCLA
+    - year: 2020
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Department of Economics Fellowship, UCLA
+    - year: 2017
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Dean's List, UC Berkeley
