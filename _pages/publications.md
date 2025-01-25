@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-#### *works in progress*
+#### *Works in Progress*
 
 "Delivering New Cities: The Effect of E-Commerce Warehouses on Household Travel and City Structure"
 
