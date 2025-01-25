@@ -6,10 +6,12 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
+## Works in Progress
 
-<div class="publications">
+``Delivering New Cities: The Effect of E-Commerce Warehouses on Household Travel and City Structure"
 
-{% bibliography %}
+``Digital Nomads and Transnational Gentrification: A Case Study of Mexico City" (with Jos'e Antonio Inguanzo Gonz'alez)
 
-</div>
+``Migration and Political Alignment" (with Stuart Gabriel and Gregor Schubert)
+
+``The Costs of Cummuting: Identifying the Effect of Transit Subsidies on Employment"

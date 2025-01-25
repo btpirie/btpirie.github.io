@@ -6,10 +6,16 @@ nav: true
 nav_order: 4
 ---
 
-**Data Science for Economists** (UCLA Econ 104) 
+I have served as a TA for the following undergraduate courses at UCLA:
 
-**Introduction to Econometrics** (UCLA Econ 103)  
+**Data Science for Economists** (Econ 104)\\
+Spring 2024
 
-**Microeconomic Theory** (UCLA Econ 101)  
+**Introduction to Econometrics** (Econ 103)\\
+Fall 2021, Spring 2022, Winter 2022, Fall 2022
 
-**Introduction to Personal Finance** (UCLA Econ 12)
+**Microeconomic Theory** (Econ 101)\\
+Winter 2023
+
+**Introduction to Personal Finance** (Econ 12)\\
+Spring 2023, Spring 2025

@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hello world! I am a PhD Candidate in Economics at the University of California, Los Angeles and student affiliate at the [California Center for Population Research](https://ccpr.ucla.edu).
 
-I am passionate about **causal inference** and love to exploit clever natural experiments to learn about the world. My research interests are in **urban and labor economics**, with particular interests in transportation and migration. In my research I use large data sets with spatial information to explore how household migration and travel decisions influence inequalities in economic, political, and other outcomes.
+I am an **applied economist** with research interests in **urban and labor economics**. I am passionate about **causal inference** and love to exploit clever natural experiments to learn about the world.
 
-I am currently studying how e-commerce changes household travel patterns within cities and what this means for citywide traffic, neighborhood quality, and household location choices. I am also working on projects to understand the determinants of migration and commuting patterns which shape the distribution of households across space.
+In my research I use large data sets with spatial information to explore how household migration and travel decisions influence inequalities in economic, political, and other outcomes.
